@@ -1,0 +1,12 @@
+lucode;LULC_Name;C_above;C_below;C_soil;C_dead
+10;Tree_cover;50;16;17;5
+20;Shrubland;7;5;25;2
+30;Grassland;3;3;16;1
+40;Cropland;3;2;12;1
+50;Built-up;3;2;20;2
+60;"Bare /sparse
+vegetation";1;1;10;0
+70;Snow and Ice;0;0;0;0
+80;Permanent water bodies;0;0;0;0
+90;Herbaceous wetland;10;5;20;0
+100;Moss and lichen;10;5;20;0
