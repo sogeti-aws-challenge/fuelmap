@@ -10,9 +10,14 @@ AWS SageMaker Notebooks, local device or container.
 
 ### Requirements
 Python version 3.8+
+Please install the following packages in the active environment
 Packages: 
-- GDAL, boto3, MatPlotLib, Numpy
-- natcap.invest (https://invest.readthedocs.io)
+- GDAL, boto3, MatPlotLib, Numpy by running:
+  
+  `conda install gdal`
+- natcap.invest (https://invest.readthedocs.io):
+  
+  `pip install natcap.invest==3.11.0`
 - terracatalogueclient (https://vitobelgium.github.io/terracatalogueclient/).  
   Install easily using:
   
